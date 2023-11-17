@@ -1,0 +1,17 @@
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\obj\Debug\net7.0-windows\Currency.csproj.AssemblyReference.cache
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\obj\Debug\net7.0-windows\Currency.csproj.GenerateResource.cache
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\obj\Debug\net7.0-windows\Currency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\obj\Debug\net7.0-windows\Currency.AssemblyInfoInputs.cache
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\obj\Debug\net7.0-windows\Currency.AssemblyInfo.cs
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\obj\Debug\net7.0-windows\Currency.csproj.CoreCompileInputs.cache
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\bin\Debug\net7.0-windows\Currency.exe
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\bin\Debug\net7.0-windows\Currency.deps.json
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\bin\Debug\net7.0-windows\Currency.runtimeconfig.json
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\bin\Debug\net7.0-windows\Currency.dll
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\bin\Debug\net7.0-windows\Currency.pdb
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\obj\Debug\net7.0-windows\Currency.dll
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\obj\Debug\net7.0-windows\refint\Currency.dll
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\obj\Debug\net7.0-windows\Currency.pdb
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\obj\Debug\net7.0-windows\Currency.genruntimeconfig.cache
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\obj\Debug\net7.0-windows\ref\Currency.dll
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\Currency\obj\Debug\net7.0-windows\Currency.MainForm.resources
